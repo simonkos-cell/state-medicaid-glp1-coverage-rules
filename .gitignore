@@ -3,3 +3,6 @@
 *.docx
 *.xlsx
 .DS_Store
+
+# generated summary workbook is tracked on purpose
+!outputs/state_coverage_summary.xlsx

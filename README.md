@@ -47,3 +47,9 @@ Tier 2 or 3 is acceptable documentation, especially when two or more sources agr
 
 ## Freezing for a paper
 When a paper is submitted, tag the repository (for example, `rl-2026-jno-submission`) and zip the State Document folder as it stands, for deposit with the replication files.
+
+## Coverage dimensions (added October 2026)
+
+Beyond the drug start and end dates, the evidence file now carries prior-authorization stringency relative to the FDA label, adult and adolescent BMI criteria, step therapy, age minimum, quantity limits, FFS versus managed-care scope, and the date and source of the criteria document, plus three reconciliation columns (the Klebanoff et al. June 2024 stringency class used by Khanna, Wang and Venkataramani 2026, their start quarter, and the adoption quarter used in NBER w34949). Field definitions and coding rules: `docs/coverage_dimensions_codebook.md`. Per-state oddities and the points where we and Khanna et al. read the record differently: `docs/state_notes.md`. The audit that produced the October 2026 corrections: `docs/audit_2026-10.md`.
+
+A summary workbook, `outputs/state_coverage_summary.xlsx`, is generated from the CSV files by `code/make_summary_workbook.py` (sheets: by_state, by_state_molecule, events, dimensions). Edit the CSVs and rerun the script; do not edit the workbook.
