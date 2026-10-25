@@ -1,0 +1,5 @@
+# Evidence PDFs and documents live in OneDrive (see README), not in git
+*.pdf
+*.docx
+*.xlsx
+.DS_Store
