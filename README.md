@@ -19,6 +19,18 @@ Source documents (PDLs, PA criteria, bulletins, press items), by state, are not 
 
 The `evidence_file` column stores paths relative to `MedicaidStateFormularyRulesGLP1s/`, never full paths. The documents are not public; contact Kosali Simon (simonkos@iu.edu) for access to specific sources.
 
+## How to cite
+Simon K. State Medicaid coverage rules for GLP-1 medications for weight management (version 2026-10-25). GitHub. https://github.com/simonkos-cell/state-medicaid-glp1-coverage-rules
+
+Please also cite the paper these data were first built for: Wing C, et al. Medicaid Coverage for Obesity Medications: Utilization and Net-of-Rebate Spending. NBER Working Paper 34949. https://www.nber.org/papers/w34949
+
+For the exact version used in that paper, cite the gist revision: https://gist.github.com/coadywing/14061c2322ad07fcd042d1aca7a65694/4495b2a7f88e8fa7450d5b2314055b87e3d8df48 (also tagged `nber-w34949-gist-2026-03-18` here).
+
+Machine-readable citation details are in `CITATION.cff`.
+
+## Acknowledgments
+The 2025 coverage data and evidence files were built by Maddie Potter and Wei-Lun Lo for NBER Working Paper 34949, and the evidence page was first published by Coady Wing.
+
 ## Evidence standard
 `evidence_tier` in `state_coverage_events.csv`:
 - 1 = official state document (PDL, PA criteria, provider bulletin, budget or regulation, state Medicaid web page)

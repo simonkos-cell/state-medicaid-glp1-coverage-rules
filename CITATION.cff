@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below, and cite the NBER working paper for which they were first built."
+title: "State Medicaid Coverage Rules for GLP-1 Medications for Weight Management"
+type: dataset
+authors:
+  - family-names: Simon
+    given-names: Kosali
+    affiliation: Indiana University
+repository-code: "https://github.com/simonkos-cell/state-medicaid-glp1-coverage-rules"
+date-released: 2026-10-25
+version: "2026-10-25"
+references:
+  - type: report
+    title: "Medicaid Coverage for Obesity Medications: Utilization and Net-of-Rebate Spending"
+    authors:
+      - family-names: Wing
+        given-names: Coady
+      - name: "et al."
+    institution:
+      name: National Bureau of Economic Research
+    number: "34949"
+    url: "https://www.nber.org/papers/w34949"
