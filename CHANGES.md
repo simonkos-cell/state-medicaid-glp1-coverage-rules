@@ -7,13 +7,28 @@ Every change to files in `data/` relative to the frozen NBER w34949 version, new
 | 2026-10-25 | state_coverage_events.csv | MA | (new row; 2026-02-17 row expanded) | | Wegovy reinstated 2026-02-17 at parity with Zepbound; Saxenda pediatric only; adult BMI criteria (35+, or 30 to under 35 or 27+ with listed conditions) | MassHealth Pharmacy Facts 269 (Jan 14 2026): "Wegovy®(semaglutide) will be added as a preferred drug managed at parity with Zepbound®", "Effective February 17, 2026" | KS |
 | 2026-10-25 | state_coverage_evidence_sources.csv | MA | wegovy_end_date | Continued coverage through Q1 2026 | 1/1/2025 | MassHealth Prescriber e-Letter Vol. 14 Issue 3 (Oct 2024): Wegovy and Saxenda "will be noncovered agents for the treatment of overweight and obesity in adults" from January 1, 2025; matches the state's evidence note and the Wegovy pause date in GLP1_Coverage_with_PA_QL_Date.csv | KS |
 | 2026-10-25 | state_coverage_events.csv | MA | (new rows) | | 2025-01-01 end of Wegovy and Saxenda for adult weight management; 2025-01-06 phentermine step for new starts | MassHealth e-Letter Oct 2024; Pharmacy Facts 235 (Nov 19 2024) | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | KS | wegovy, saxenda, zepbound start dates | 6/1/2024 | 4/1/2024 | KMAP General Bulletin 24071 (April 17, 2024), effective April 1, 2024; KDHE anti-obesity PA form | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | MI | zepbound_start_date | 11/24/2026 | 11/1/2024 | MDHHS Medicaid Health Plan Common Formulary dated 11/1/2024 (spreadsheet date-parsing error) | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | NC | saxenda_start_date, zepbound_start_date | 8/24/2026 | 8/1/2024 | NC Medicaid PDL "Revised 8.1.2024 for addition of weight management agents" | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | NH | zepbound_start_date | 9/24/2026 | 7/14/2025 | Earliest PDL in hand listing Zepbound (effective July 14, 2025); may be earlier | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | NH | zepbound_end_date | 1/26/2026 | 1/1/2026 | Same end as Wegovy and Saxenda (date-parsing error) | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | TN | wegovy_start_date, zepbound_start_date | 8/25/2026 | 8/1/2025 | TennCare PDL effective August 1, 2025; SPA TN-25-0006 | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | MN | wegovy_start_date, saxenda_start_date | 6/15/2023 | 3/1/2023 | June 15, 2023 PDL, p. 32: "WEIGHT MANAGEMENT AGENTS section added 3-1-2023" | KS |
+| 2026-10-25 | state_coverage_evidence_sources.csv | VA | zepbound_start_date | 1/1/2024 | 8/9/2024 | Earliest PDL in hand listing Zepbound (8/9/24); no January 2024 document | KS |
+| 2026-10-25 | document_manifest.csv | all | (new file) | | Manifest of the 138 files in the 2025 evidence folder, with deposit flags | docs/audit_2026-10.md | KS |
 | 2026-10-25 | state_coverage_events.csv | CA, NH, PA, SC, MI, MA, UT, RI, NC | (new file) | | 11 dated changes, late 2025 to October 2026 | See source columns in file | KS |
 
 ## Open issues to check (not yet changed)
-- Zepbound start dates with a 2026 year in `state_coverage_evidence_sources.csv`: Michigan 11/24/2026, North Carolina 8/24/2026, New Hampshire 9/24/2026, Tennessee 8/25/2026 (Tennessee's Wegovy start also reads 8/25/2026). Likely typos for 2024 or 2025; check against the PDLs in OneDrive.
-- New Hampshire Zepbound end date reads 1/26/2026; other withdrawing states read 1/1/2026.
+Full audit against the state documents: `docs/audit_2026-10.md`.
+- Kansas: start revised to 4/1/2024 (same quarter as before). Open question whether Saxenda and Wegovy were paid without PDL PA before April 2024 (the April 2024 bulletin adds PDL PA to them; SDUD shows some 2023 use).
+- Reconciliation with Khanna et al. eTable 1 (docs/audit_2026-10.md): NH, MN, KS (and VA by one quarter) have paid Saxenda or Wegovy claims in SDUD before the PDL dates in this file, which are lower bounds on coverage. Needs a quarterly SDUD check by product before any change to start dates or to the w34949 cohorts. MS may be 2023 Q3 (July 2023 PDL Rev 8, not in folder).
+- Minnesota: the 3/1/2023 class date moves first coverage from 2023 Q2 to 2023 Q1 if the estimation keys on the earliest drug date; check the estimation code. Zepbound 12/1/2024 not verified (RA notes cite a January 1, 2025 PDL not in the folder).
+- South Carolina: no documents in the folder; obtain the November 2024 Single PDL cited in the evidence file.
+- California: Zepbound start (10/1/2024) not pinned by a document between the Feb 2024 and 2025 Contract Drugs Lists.
+- Missouri: implementation date lies between the October 15, 2024 SmartPA proposal and the February 1, 2025 PDL; Wegovy is non-preferred in the obesity class, so "NA" understates it.
+- Rhode Island: 10/18/2022 is a class review date in the January 10, 2023 PDL; earlier coverage cannot be excluded without a 2022 PDL.
+- West Virginia: Wegovy PA memo (9/25/24) cited in RA notes is not in the folder.
+- Georgia: Saxenda non-preferred with PA for ages 12 to 17 (RA notes); check before using Georgia as never-treated in an adolescent analysis.
 - Delaware: `legacy_2025_maddie_potter/GLP1_Coverage_with_PA_QL_Date.csv` gives end dates of 3/1/2026, while the evidence file says "Continued coverage through Q1 2026" and 2026 trackers show Delaware covering. 3/1/2026 may be the end of data collection, not an end of coverage.
-- Michigan's January 1, 2026 restriction and North Carolina's October 1 to December 12, 2025 gap are not in the evidence file (now in `state_coverage_events.csv`).
 - Virginia: a service-authorization form dated July 31, 2025 (cited by a tracker) needs checking for any criteria change in 2025 Q3.
-- Wisconsin: undated ForwardHealth notice asking prescribers not to start new PA requests during shortages; confirm it predates 2025.
 - Utah pilot end (June 30, 2026) rests on one news source; find the Utah Medicaid notice.
