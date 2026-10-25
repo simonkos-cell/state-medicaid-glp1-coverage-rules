@@ -21,6 +21,21 @@ One entry per state where something needs saying that the evidence file and the 
 - **Wisconsin.** Coverage with PA (attachment F-00163 dated 04/2023) before any quick-reference PDL listed the class, which is why the RA notes read "None". The July 1, 2024 criteria are stricter than the label at BMI 27 to 30 (two risk factors) and require a six-month weight-loss treatment plan. Saxenda claims in SDUD from 2021 Q1. Khanna et al. excluded Wisconsin as unclear.
 - **Never-covering states with partial coverage.** Alabama, Hawaii, Louisiana, Washington: Wegovy for cardiovascular risk reduction only. West Virginia: Zepbound for obstructive sleep apnea. Georgia: Saxenda non-preferred with PA for ages 12 to 17 (RA notes), to check before using Georgia as never-treated in an adolescent analysis.
 
+## Criteria documents retrieved online 2026-10-25 (round two)
+
+Eight of the nine states that read `not_documented` after the first pass now have a criteria document:
+
+- **Pennsylvania.** PA Health & Wellness (Centene MCO) Obesity Treatment Agents form (eff. 1/6/2025) requires a concurrent diabetes diagnosis or an antidiabetic drug in the past 120 days before a preferred GLP-1 for obesity, which is more restrictive than the FDA label. This is the MCO form, not the statewide FFS criteria Klebanoff coded as PA-at-label for June 2024, so the Klebanoff column is unchanged and the discrepancy is recorded.
+- **North Carolina.** Carolina Complete Health GLP-1 Weight Management form (version 202407): BMI 30, or 27 with a comorbidity; adolescents 95th percentile or 85th with a comorbidity; 5% weight loss to renew; Saxenda and Zepbound non-preferred. Coded fda_label.
+- **Kansas.** KDHE AOM criteria (reviewed 8/19/2026; prior 1/17/2024, Khanna's cited source): BMI 30 or 27 with comorbidity for the preferred agents, with a BMI-40 high-cost tier that is waived for Zepbound (4/1/24) and Wegovy (6/1/25). The January 2024 version set initial weight-loss checkpoints (3% Saxenda, 5% Wegovy, 6% Zepbound). Confirms Foundayo (orforglipron) is covered.
+- **Michigan.** The 2022 to 2025 era was appropriateness PA only; the MIRx 1/1/2026 criteria require morbid obesity (BMI 40 or higher) and frame GLP-1 use as averting bariatric surgery. Both are recorded; the 2026 criteria match the restriction already in the events file.
+- **Utah.** FFS PA form (7/1/25) requires 6 months of dietitian-supervised lifestyle trials before the drug; reclassified from not_documented to more_restrictive.
+- **Tennessee.** TennCare Optum Rx provider notice (eff. 8/1/2025): BMI 30 or 27 with comorbidity; 5% to renew; Wegovy and Zepbound preferred, Saxenda non-preferred. Coded fda_label.
+- **Rhode Island.** Neighborhood Health Plan of RI policy (reviewed through 5/2024) requires a 6-month supervised weight-management program before drug therapy; reclassified to more_restrictive (MCO-level).
+- **Delaware.** Delaware First Health DE.PMN.50 (eff. 01.23, Khanna's cited source): BMI 30 with risk-factor logic and a three-month low-calorie diet trial; confirms the more_restrictive coding inferred from SPA DE-24-0010.
+
+Still not documented: **South Carolina.** SCDHHS does not post a separate GLP-1 criteria document; the restriction lives in the Single PDL, which is not in the folder. Left as `not_documented` with the PDL named as the document to obtain.
+
 ## Disagreements with Khanna, Wang and Venkataramani (2026) that are findings, not errors
 
 1. Start dates for NH, VA, KS, RI, DE, WI: their reading (earlier, or unclear) is supported by SDUD claims; ours are PDL listing dates and are lower bounds.
