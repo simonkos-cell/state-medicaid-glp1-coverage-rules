@@ -45,3 +45,8 @@ Full audit against the state documents: `docs/audit_2026-10.md`.
 - Delaware: `legacy_2025_maddie_potter/GLP1_Coverage_with_PA_QL_Date.csv` gives end dates of 3/1/2026, while the evidence file says "Continued coverage through Q1 2026" and 2026 trackers show Delaware covering. 3/1/2026 may be the end of data collection, not an end of coverage.
 - Virginia: a service-authorization form dated July 31, 2025 (cited by a tracker) needs checking for any criteria change in 2025 Q3.
 - Utah pilot end (June 30, 2026) rests on one news source; find the Utah Medicaid notice.
+
+## Analysis notes added 2026-10-25
+- docs/sdud_quarterly_check_2026-10.md: quarterly SDUD-by-product check for the lower-bound states; KS/VA/WI/DE covered Saxenda from 2019, so they are always-covered under the four-brand definition; how Khanna et al. handled this (excluded DE/KS/WI, kept CA as a PBM-transition case, eTable 5b Saxenda-excluded robustness).
+- docs/controls_2026_drop_paper.md: clean comparison group for the 2026 drop paper (DE, KS, MN, MS, VA, WI); MA and MI removed as contaminated, KS added back; pooled DiD cross-check (withdraw 1.42 to 0.30, controls flat, DiD -1.11 per 100 enrollee-months).
+- outputs/tables/sdud_quarterly_4states_check.csv, exhibit2_state_by_state_newcontrols.csv: supporting tables.
