@@ -1,0 +1,14 @@
+state,first_quarter,last_quarter,basis
+MI,2022Q2,2026Q2,First full quarter after the 2/1/2022 start through 2026Q2; matches the 17 covered quarters in the task table
+WI,2021Q1,2026Q2,Saxenda paid for from the start of the window (SDUD) through 2026Q2. Changed 2026-11-17 from 2023Q2; see state_drug_coverage.csv
+MS,2023Q3,2026Q2,Start 7/1/2023 through 2026Q2; 12 covered quarters as in the task table
+CA,2023Q1,2025Q4,"Start 1/1/2023, end 1/1/2026; 12 covered quarters as in the task table"
+KS,2021Q1,2026Q2,Saxenda paid for from before 2021 (SDUD; criteria for the class date from 2007) through 2026Q2; 22 covered quarters. Changed 2026-11-17 from 2024Q2 (9 quarters)
+PA,2023Q2,2025Q4,"Start 1/9/2023, end 1/1/2026; first full quarter through 2025Q4; 11 covered quarters as in the task table"
+DE,2021Q1,2026Q2,Saxenda paid for from the start of the window (SDUD) through 2026Q2. Changed 2026-11-17 from 2023Q1; see state_drug_coverage.csv
+NH,2021Q1,2025Q4,Saxenda paid for from the start of the window (SDUD) through 2025Q4. Changed 2026-11-17 from 2022Q4; see state_drug_coverage.csv
+VA,2021Q1,2026Q2,Saxenda paid for from the start of the window (SDUD) through 2026Q2. Changed 2026-11-17 from 2023Q1; see state_drug_coverage.csv
+MA,2024Q2,2026Q2,Start 1/2/2024; first full quarter through 2026Q2; 9 covered quarters as in the task table
+MO,2024Q4,2026Q2,Zepbound start 10/1/2024 in the evidence file through 2026Q2; 7 covered quarters as in the task table
+RI,2021Q1,2026Q2,Saxenda paid for from the start of the window (SDUD) through 2026Q2. Changed 2026-11-17 from 2023Q1; see state_drug_coverage.csv
+SC,2025Q1,2025Q4,"Start 11/1/2024, end 1/1/2026; first full quarter through 2025Q4; 4 covered quarters as in the task table"

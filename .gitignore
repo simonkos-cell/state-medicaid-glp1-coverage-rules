@@ -1,0 +1,11 @@
+# Source documents are deposited at IU DataCORE (see README), not in git
+*.pdf
+*.docx
+*.xlsx
+.DS_Store
+
+# the authors' working archive (superseded documents and one-time scripts) is not public
+archive/
+
+# generated summary workbook is tracked on purpose
+!outputs/state_coverage_summary.xlsx

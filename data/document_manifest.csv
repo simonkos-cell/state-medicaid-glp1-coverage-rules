@@ -1,0 +1,285 @@
+state,file_path,file_type,bytes,document_date_in_text,deposit,source_url,source_url_kind,file_saved_date,notes
+AK,AK/Alaska.docx,state summary (docx),188414,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+AK,AK/Documents/AK.png,SDUD chart (png),81600,,yes,,generated,2026-11-15,
+AK,AK/Documents/AK100K.png,SDUD chart (png),87092,,yes,,generated,2026-11-15,
+AL,AL/Alabama.docx,state summary (docx),189640,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+AL,AL/Documents/AL.png,SDUD chart (png),81024,,yes,,generated,2026-11-15,
+AL,AL/Documents/AL100K.png,SDUD chart (png),86492,,yes,,generated,2026-11-15,
+AR,AR/Arkansas.docx,state summary (docx),202550,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+AR,AR/Documents/AR.png,SDUD chart (png),89263,,yes,,generated,2026-11-15,
+AR,AR/Documents/AR100K.png,SDUD chart (png),92603,,yes,,generated,2026-11-15,
+AZ,AZ/Arizona.docx,state summary (docx),343427,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+AZ,AZ/Documents/AZ.png,SDUD chart (png),155222,,yes,,generated,2026-11-15,
+AZ,AZ/Documents/AZ100K.png,SDUD chart (png),169932,,yes,,generated,2026-11-15,
+CA,CA/California.docx,state summary (docx),315097,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+CA,CA/Documents/CA PDL 2023.pdf,PDF,2508171,"January 17, 2023",yes,https://medi-calrx.dhcs.ca.gov/home/cdl/,listing_page,2025-08-28,
+CA,CA/Documents/CA PDL 2024.pdf,PDF,1832163,"February 1, 2024",yes,https://medi-calrx.dhcs.ca.gov/home/cdl/,listing_page,2025-08-28,
+CA,CA/Documents/CA PDL 2025.pdf,PDF,4472915,"August 1, 2025",yes,https://medi-calrx.dhcs.ca.gov/home/cdl/,listing_page,2025-08-28,
+CA,CA/Documents/CA.png,SDUD chart (png),148831,,yes,,generated,2026-11-15,
+CA,CA/Documents/CA100K.png,SDUD chart (png),147377,,yes,,generated,2026-11-15,
+CA,CA/Documents/CA_zepboundcoverage_2024.pdf,PDF,756402,"June 14, 2024",yes,,not_recorded,2025-10-01,"Medi-Cal Rx alert, Code I Diagnosis Requirement for Chronic Weight Management. The file name does not describe the content"
+CA,CA/Documents/Medi-Cal_Rx_Contract_Drugs_List_FINAL.pdf,PDF,2827913,"September 1, 2025",yes,https://medi-calrx.dhcs.ca.gov/cms/medicalrx/static-assets/documents/provider/forms-and-information/cdl/Medi-Cal_Rx_Contract_Drugs_List_FINAL.pdf,file,2025-09-30,URL recorded in the research assistant's 2025 notes; this address returns the current edition
+CA,CA/Documents/Medi-Cal_Rx_Diagnosis_Crosswalk_2024.xlsx,spreadsheet (xlsx),41561,,yes,,not_recorded,2025-10-01,
+CO,CO/Colorado.docx,state summary (docx),244595,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+CO,CO/Documents/CO.png,SDUD chart (png),113035,,yes,,generated,2026-11-15,
+CO,CO/Documents/CO100K.png,SDUD chart (png),111651,,yes,,generated,2026-11-15,
+CT,CT/Connecticut.docx,state summary (docx),202999,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+CT,CT/Documents/CT.png,SDUD chart (png),88010,,yes,,generated,2026-11-15,
+CT,CT/Documents/CT100K.png,SDUD chart (png),94118,,yes,,generated,2026-11-15,
+DE,DE/Delaware.docx,state summary (docx),327327,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+DE,DE/Documents/23 DE Reg 464 12-01-19.pdf,PDF,249067,,yes,https://regulations.delaware.gov/register/december2019/final/23%20DE%20Reg%20464%2012-01-19.htm,file,2025-08-20,
+DE,DE/Documents/DE PDL 2023.pdf,PDF,895640,,yes,https://medicaid.dhss.delaware.gov/provider/Home/PharmacyCornerLanding/tabid/2096/Default.aspx,listing_page,2025-08-20,
+DE,DE/Documents/DE PDL 2025.pdf,PDF,770888,Revised 8/4/2025,yes,https://medicaid.dhss.delaware.gov/provider/Home/PharmacyCornerLanding/tabid/2096/Default.aspx,listing_page,2025-08-20,
+DE,DE/Documents/DE.PMN.50_Anti-Obesity_Medications_01.23.pdf,PDF,374005,Effective Date: 01.23,no,https://delawarefirsthealth.com/content/dam/centene/delaware/Policies/DrugPolicies/DE.PMN.50%20Anti-Obesity%20Medications%2001.23.pdf,file,,"Cited, not deposited: managed care plan policy under the parent company's copyright"
+DE,DE/Documents/DE.png,SDUD chart (png),151972,,yes,,generated,2026-11-15,
+DE,DE/Documents/DE100K.png,SDUD chart (png),153431,,yes,,generated,2026-11-15,
+DE,DE/Documents/DE_PDL_2026-11-02.pdf,PDF,851724,11/2/2026,yes,https://medicaid.dhss.delaware.gov/provider/Home/PharmacyCornerLanding/tabid/2096/Default.aspx,listing_page,2026-11-15,2026 Delaware Medicaid PDL; Obesity Treatment Agents class p. 41
+DE,DE/Documents/DE_SPA_26-0003_2026-01-01.pdf,PDF,600526,,yes,https://www.medicaid.gov/medicaid/spa/downloads/DE-26-0003.pdf,file,2026-11-14,
+DE,DE/Documents/DE_potential_zep_2024.pdf,PDF,384618,"Effective August 1, 2024",yes,https://www.medicaid.gov/medicaid/spa/downloads/DE-24-0010.pdf,inferred,2025-10-01,"State Plan Amendment DE-24-0010. The file name does not describe the content; URL address formed from the document's own number or file name, following the pattern of a recorded address; not opened"
+FL,FL/Documents/FL.png,SDUD chart (png),140669,,yes,,generated,2026-11-15,
+FL,FL/Documents/FL100K.png,SDUD chart (png),144416,,yes,,generated,2026-11-15,
+FL,FL/Florida.docx,state summary (docx),302153,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+GA,GA/Documents/GA PDL 2023.pdf,PDF,701478,"December 1, 2023",yes,https://dch.georgia.gov/providers/provider-types/pharmacy/preferred-drug-lists/2023-preferred-drug-list,listing_page,2025-08-20,
+GA,GA/Documents/GA PDL 2025.pdf,PDF,807928,"July 1, 2025",yes,https://dch.georgia.gov/providers/provider-types/pharmacy/preferred-drug-lists/2025-preferred-drug-list,listing_page,2025-08-20,
+GA,GA/Documents/GA.png,SDUD chart (png),124055,,yes,,generated,2026-11-15,
+GA,GA/Documents/GA100K.png,SDUD chart (png),128490,,yes,,generated,2026-11-15,
+GA,GA/Georgia.docx,state summary (docx),269156,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+HI,HI/Documents/HI.png,SDUD chart (png),143385,,yes,,generated,2026-11-15,
+HI,HI/Documents/HI100K.png,SDUD chart (png),150686,,yes,,generated,2026-11-15,
+HI,HI/Hawaii.docx,state summary (docx),311750,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+IA,IA/Documents/IA.png,SDUD chart (png),93135,,yes,,generated,2026-11-15,
+IA,IA/Documents/IA100K.png,SDUD chart (png),95054,,yes,,generated,2026-11-15,
+IA,IA/Iowa.docx,state summary (docx),208188,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+ID,ID/Documents/ID.png,SDUD chart (png),84185,,yes,,generated,2026-11-15,
+ID,ID/Documents/ID100K.png,SDUD chart (png),87972,,yes,,generated,2026-11-15,
+ID,ID/Idaho.docx,state summary (docx),193827,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+IL,IL/Documents/IL.png,SDUD chart (png),120487,,yes,,generated,2026-11-15,
+IL,IL/Documents/IL100K.png,SDUD chart (png),117703,,yes,,generated,2026-11-15,
+IL,IL/Illinois.docx,state summary (docx),256381,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+IN,IN/Documents/IN.png,SDUD chart (png),111189,,yes,,generated,2026-11-15,
+IN,IN/Documents/IN100K.png,SDUD chart (png),115311,,yes,,generated,2026-11-15,
+IN,IN/Indiana.docx,state summary (docx),244764,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+KS,KS/Documents/KS PDL 2023.pdf,PDF,681845,,yes,https://www.kdhe.ks.gov/212/Preferred-Drug-List-Program,listing_page,2025-08-28,URL recorded in the research assistant's 2025 notes
+KS,KS/Documents/KS PDL 2024.pdf,PDF,715447,,yes,https://www.kdhe.ks.gov/212/Preferred-Drug-List-Program,listing_page,2025-08-20,"Internal dates read 12/01/2024; this is the December 2024 PDL, not June 2024; URL recorded in the research assistant's 2025 notes"
+KS,KS/Documents/KS PDL 2025.pdf,PDF,776752,,yes,https://www.kdhe.ks.gov/DocumentCenter/View/420/Preferred-Drug-List-PDF,file,2025-08-20,URL recorded in the research assistant's 2025 notes; this address returns the current edition
+KS,KS/Documents/KS.png,SDUD chart (png),146739,,yes,,generated,2026-11-15,
+KS,KS/Documents/KS100K.png,SDUD chart (png),149576,,yes,,generated,2026-11-15,
+KS,KS/Documents/KS_Anti-Obesity_Medications_criteria_2026-08-19.pdf,PDF,351286,"Last Reviewed: August 19, 2026; Minor updates 11/1/2026",yes,https://www.kdhe.ks.gov/DocumentCenter/View/407/Anti-Obesity-Medications-PDF,file,2026-11-16,KDHE criteria for prior authorization; lists revision dates back to 2011
+KS,KS/Documents/KS_KMAP_GeneralBulletin_23255_20231006.pdf,PDF,288265,"October 2023; effective September 19, 2023",yes,https://portal.kmap-state-ks.us/Documents/Provider/Bulletins/23255%20-%20General%20-%20Anti-Obesity_Medication_Coverage.pdf,file,2026-11-17,"KMAP General Bulletin 23255, Anti-Obesity Medication Coverage: coverage of all rebate-eligible anti-obesity medications for dates of service on and after September 19, 2023; no products named. Downloaded from the state portal by KS on 2026-11-17; the PDF was created October 6, 2023"
+KS,KS/Documents/KS_Weight_Loss_Agents_PA_criteria_draft_2023-07-19.pdf,PDF,233769,"Revised Dates: July 19, 2023",yes,https://www.kdhe.ks.gov/DocumentCenter/View/29625/Weight-Loss-Agents-July-2023-PDF,file,2026-11-17,"KDHE Criteria for Prior Authorization, Weight Loss Agents, approved draft prepared for the DUR Board (PDF created July 12, 2023). Names Saxenda and Wegovy; review history back to 2011, initial approval September 14, 2007. File supplied by KS on 2026-11-17; the address is the KDHE posting found by web search"
+KS,KS/Documents/KS_KMAP_GeneralBulletin_24071_20240417.pdf,PDF,292642,"April 17, 2024; effective April 1, 2024",yes,https://portal.kmap-state-ks.us/Documents/Provider/Bulletins/24071%20-%20General%20-%20Preferred_Drug_List_Updated_April.pdf,file,2026-11-16,"KMAP General Bulletin 24071: PDL prior authorization required for Saxenda and Wegovy effective 4/1/2024; Zepbound PDL preferred from the same date; URL of the bulletin on the state portal, found by web search on 2026-11-17 (the search excerpt matches the saved file); a managed care plan restates it at https://www.sunflowerhealthplan.com/newsroom/kmap-24071.html"
+KS,KS/Kansas.docx,state summary (docx),317023,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+KY,KY/Documents/KY.png,SDUD chart (png),91388,,yes,,generated,2026-11-15,
+KY,KY/Documents/KY100K.png,SDUD chart (png),96686,,yes,,generated,2026-11-15,
+KY,KY/Kentucky.docx,state summary (docx),208854,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+LA,LA/Documents/LA PDL 2025.pdf,PDF,1650685,10/01/2024,yes,https://ldh.la.gov/assets/healthyla/pharmacy/pdl.pdf,file,2025-08-20,
+LA,LA/Documents/LA.png,SDUD chart (png),115768,,yes,,generated,2026-11-15,
+LA,LA/Documents/LA100K.png,SDUD chart (png),115414,,yes,,generated,2026-11-15,
+LA,LA/Louisiana.docx,state summary (docx),249060,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+MA,MA/Documents/MA PA 2024.pdf,PDF,708291,,yes,https://mhdl.pharmacy.services.conduent.com/MHDL/pubdruglistpdf.do,listing_page,2025-08-20,Text cannot be extracted from this file (font encoding); not used for coding; URL recorded in the research assistant's 2025 notes; the file is a print of a MassHealth Drug List page
+MA,MA/Documents/MA PDL 2024.pdf,PDF,23512024,,yes,https://mhdl.pharmacy.services.conduent.com/MHDL/pubdruglistpdf.do,listing_page,2025-08-28,
+MA,MA/Documents/MA.png,SDUD chart (png),131800,,yes,,generated,2026-11-15,
+MA,MA/Documents/MA100K.png,SDUD chart (png),131559,,yes,,generated,2026-11-15,
+MA,MA/Documents/Ma PDL 2025.pdf,PDF,32142981,,yes,https://mhdl.pharmacy.services.conduent.com/MHDL/pubdruglistpdf.do,listing_page,2025-08-28,
+MA,MA/Documents/Prescriber E-letter-Volume 14-Issue 3_2024-10-08_0.pdf,PDF,174926,"October 1, 2024",yes,https://www.mass.gov/doc/issue-3-october-2024-0/download,file,2025-09-30,
+MA,MA/Massachusetts.docx,state summary (docx),282457,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+MD,MD/Documents/MD.png,SDUD chart (png),110557,,yes,,generated,2026-11-15,
+MD,MD/Documents/MD100K.png,SDUD chart (png),119831,,yes,,generated,2026-11-15,
+MD,MD/Maryland.docx,state summary (docx),248193,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+ME,ME/Documents/ME.png,SDUD chart (png),100429,,yes,,generated,2026-11-15,
+ME,ME/Documents/ME100K.png,SDUD chart (png),101643,,yes,,generated,2026-11-15,
+ME,ME/Maine.docx,state summary (docx),223268,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+MI,MI/Documents/MI 2025 PDL.pdf,PDF,882879,08/01/2025,yes,https://mi.primetherapeutics.com/provider/external/medicaid/mi/doc/en-us/MIRx_PDL.pdf,file,2025-08-20,
+MI,MI/Documents/MI.png,SDUD chart (png),150023,,yes,,generated,2026-11-15,
+MI,MI/Documents/MI100K.png,SDUD chart (png),147340,,yes,,generated,2026-11-15,
+MI,MI/Documents/MIRx_DUR_board_minutes_20230905.pdf,PDF,149725,,yes,,not_recorded,2025-09-30,
+MI,MI/Documents/MIRx_PAfaxform_anti-obesity_medications.pdf,PDF,497357,Revision Date: 08/01/2024,no,https://web.archive.org/web/20240818232823/https://michigan.magellanrx.com/provider/external/medicaid/mi/doc/en-us/MIRx_PAfaxform_anti-obesity_medications.pdf,archive_capture,,"Internet Archive capture of August 18, 2024. Cited, not deposited: vendor copyright notice on the form"
+MI,MI/Documents/MIRx_PDL_effective_2025-04-01.pdf,PDF,861711,Effective 04/01/2025,yes,https://web.archive.org/web/20250423224817/https://mi.primetherapeutics.com/provider/external/medicaid/mi/doc/en-us/MIRx_PDL.pdf,archive_capture,2026-11-16,"Internet Archive capture, April 2025; earliest capture of the MIRx_PDL.pdf URL"
+MI,MI/Documents/Managed_Care_Common_Formulary_Listing.pdf,PDF,2461583,"November 1, 2024",yes,,not_recorded,2025-09-30,
+MI,MI/Michigan.docx,state summary (docx),317826,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+MN,MN/Documents/2024-07-17-dfc-minutes_tcm1053-638549.pdf,PDF,230925,,yes,https://mn.gov/dhs/assets/2024-07-17-dfc-minutes_tcm1053-638549.pdf,inferred,2025-09-30,"URL address formed from the document's own number or file name, following the pattern of a recorded address; not opened"
+MN,MN/Documents/MN 2023 PDL.pdf,PDF,896152,"June 15, 2023",yes,https://mn.gov/dhs/assets/preferred-drug-list-2023-06-15_tcm1053-581409.pdf,file,2025-08-20,
+MN,MN/Documents/MN 2024 PDL.pdf,PDF,1113392,"March 15, 2024",yes,,not_recorded,2025-08-20,
+MN,MN/Documents/MN.png,SDUD chart (png),143404,,yes,,generated,2026-11-15,
+MN,MN/Documents/MN100K.png,SDUD chart (png),137686,,yes,,generated,2026-11-15,
+MN,MN/Minnesota.docx,state summary (docx),301675,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+MO,MO/Documents/MO.png,SDUD chart (png),78583,,yes,,generated,2026-11-15,
+MO,MO/Documents/MO100K.png,SDUD chart (png),82405,,yes,,generated,2026-11-15,
+MO,MO/Documents/MO_GLP1_PA_form_2575-053_2026-04.pdf,PDF,215038,,yes,https://dss.mo.gov/sites/mydss/files/media/pdf/2026/07/2575-053-GLP-1-Receptor-Agonists-PA-Form-Tahoma.pdf,file,2026-11-14,
+MO,MO/Documents/MO_PDL_2025.pdf,PDF,623319,,yes,https://mydss.mo.gov/sites/mydss/files/media/pdf/2025/01/Posting%20PDL%20Static%20Document%202025.02.01.pdf,file,2025-10-01,
+MO,MO/Documents/MO_wegovyzep_2024.pdf,PDF,,,no,https://mydss.mo.gov/media/pdf/glp-1-receptor-agonists-indicated-obesity-pdl-edit-october-15-2024,file,,"Cited, not deposited: vendor-copyrighted SmartPA proposal; URL recorded in the research assistant's 2025 notes"
+MO,MO/Missouri.docx,state summary (docx),184749,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+MS,MS/Documents/MS-PDL-02292024.pdf,PDF,1474499,1/1/2024,yes,https://medicaid.ms.gov/preferred-drug-list-archive/,listing_page,2025-10-02,URL recorded in the research assistant's 2025 notes
+MS,MS/Documents/MS.png,SDUD chart (png),114351,,yes,,generated,2026-11-15,
+MS,MS/Documents/MS100K.png,SDUD chart (png),120524,,yes,,generated,2026-11-15,
+MS,MS/Documents/MS_PDL_2023.pdf,PDF,957478,10/01/2023,yes,https://medicaid.ms.gov/preferred-drug-list-archive/,listing_page,2025-10-01,URL recorded in the research assistant's 2025 notes
+MS,MS/Documents/MS_PDL_2025.pdf,PDF,1340246,04/01/2025,yes,https://medicaid.ms.gov/preferred-drug-list-archive/,listing_page,2025-10-01,URL recorded in the research assistant's 2025 notes
+MS,MS/Documents/MS_UniversalPDL_2026-10-01_v2026_16.pdf,PDF,2507340,10/1/2026,yes,https://medicaid.ms.gov/preferred-drug-list-archive/,listing_page,2026-11-15,"Universal PDL version 2026_16; ANTIOBESITY SELECT AGENTS p. 17; URL the state's drug list archive page, recorded in the research assistant's 2025 notes"
+MS,MS/Mississippi.docx,state summary (docx),256654,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+MT,MT/Documents/MT.png,SDUD chart (png),101248,,yes,,generated,2026-11-15,
+MT,MT/Documents/MT100K.png,SDUD chart (png),105849,,yes,,generated,2026-11-15,
+MT,MT/Montana.docx,state summary (docx),229056,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NC,NC/Documents/NC.png,SDUD chart (png),134408,,yes,,generated,2026-11-15,
+NC,NC/Documents/NC100K.png,SDUD chart (png),133929,,yes,,generated,2026-11-15,
+NC,NC/Documents/NC_PDL_August_2024_WSZ.pdf,PDF,715796,,yes,https://medicaid.ncdhhs.gov/providers/programs-and-services/prescription-drugs/preferred-drug-list,listing_page,2026-01-15,
+NC,NC/Documents/NC_PDL_July_2024_Wegovy.pdf,PDF,706824,,yes,https://medicaid.ncdhhs.gov/providers/programs-and-services/prescription-drugs/preferred-drug-list,listing_page,2026-01-15,
+NC,NC/Documents/NC_reinstatement_bulletin_2025-12-19.pdf,PDF,148480,,yes,https://medicaid.ncdhhs.gov/blog/2025/12/19/nc-medicaid-reinstitute-coverage-glp-1s-weight-management,file,2026-11-14,URL found by web search on 2026-11-16; the page title and text match the saved file
+NC,NC/Documents/PA_form_NC_2024_WSZ.pdf,PDF,664996,,yes,https://www.nctracks.nc.gov/content/public/providers/pharmacy/forms.html,listing_page,2026-01-15,URL recorded in the research assistant's 2025 notes
+NC,NC/North Carolina.docx,state summary (docx),286070,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+ND,ND/Documents/ND.png,SDUD chart (png),59561,,yes,,generated,2026-11-15,
+ND,ND/Documents/ND100K.png,SDUD chart (png),64347,,yes,,generated,2026-11-15,
+ND,ND/North Dakota.docx,state summary (docx),140033,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NE,NE/Documents/NE.png,SDUD chart (png),103713,,yes,,generated,2026-11-15,
+NE,NE/Documents/NE100K.png,SDUD chart (png),108056,,yes,,generated,2026-11-15,
+NE,NE/Nebraska.docx,state summary (docx),229593,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NH,NH/Documents/NH 2025 PDL.pdf,PDF,627312,"July 14, 2025",no,https://www.dhhs.nh.gov/programs-services/medicaid/medicaid-pharmacy-benefit-management,listing_page,,"Cited, not deposited: marked Proprietary & Confidential by the vendor"
+NH,NH/Documents/NH PDL 2022.pdf,PDF,793857,"September 1, 2022",no,https://www.dhhs.nh.gov/programs-services/medicaid/medicaid-pharmacy-benefit-management,listing_page,,"Cited, not deposited: marked Proprietary & Confidential by the vendor"
+NH,NH/Documents/NH.png,SDUD chart (png),148182,,yes,,generated,2026-11-15,
+NH,NH/Documents/NH100K.png,SDUD chart (png),151935,,yes,,generated,2026-11-15,
+NH,NH/Documents/NH_Notification_2023-02-01_Clinical_PA_Updates.pdf,PDF,135833,"February 1, 2023",yes,,not_recorded,2026-11-16,"Provider notice listing Weight Management among criteria revised effective March 1, 2023"
+NH,NH/Documents/NH_WeightMgmt_criteria_2026-01-01.pdf,PDF,,,no,https://nh.primetherapeutics.com/documents/51139/51621/Weight%20Management%20Criteria%20effective%201.1.2026/1d05102e-f296-fc44-b033-4cab63927518,file,,"Cited, not deposited: marked Proprietary & Confidential by the vendor"
+NH,NH/Documents/NH_WeightMgmt_criteria_pre2026_wayback_20241004.pdf,PDF,,,no,https://web.archive.org/web/20241004174608/https://nh.primetherapeutics.com/documents/51139/51621/Weight%20Management%20Criteria/92ab6b86-192f-15fc-d639-265810a5972d,archive_capture,,"Cited, not deposited: marked Proprietary & Confidential by the vendor"
+NH,NH/New Hampshire.docx,state summary (docx),321062,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+NJ,NJ/Documents/NJ.png,SDUD chart (png),120436,,yes,,generated,2026-11-15,
+NJ,NJ/Documents/NJ100K.png,SDUD chart (png),130203,,yes,,generated,2026-11-15,
+NJ,NJ/New Jersey.docx,state summary (docx),267147,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NM,NM/Documents/NM.png,SDUD chart (png),136651,,yes,,generated,2026-11-15,
+NM,NM/Documents/NM100K.png,SDUD chart (png),146618,,yes,,generated,2026-11-15,
+NM,NM/New Mexico.docx,state summary (docx),300240,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NV,NV/Documents/NV.png,SDUD chart (png),107074,,yes,,generated,2026-11-15,
+NV,NV/Documents/NV100K.png,SDUD chart (png),109619,,yes,,generated,2026-11-15,
+NV,NV/Nevada.docx,state summary (docx),235034,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+NY,NY/Documents/NY.png,SDUD chart (png),102466,,yes,,generated,2026-11-15,
+NY,NY/Documents/NY100K.png,SDUD chart (png),106196,,yes,,generated,2026-11-15,
+NY,NY/New York.docx,state summary (docx),226187,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+OH,OH/Documents/OH.png,SDUD chart (png),120629,,yes,,generated,2026-11-15,
+OH,OH/Documents/OH100K.png,SDUD chart (png),132491,,yes,,generated,2026-11-15,
+OH,OH/Ohio.docx,state summary (docx),270144,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+OK,OK/Documents/OK.png,SDUD chart (png),83593,,yes,,generated,2026-11-15,
+OK,OK/Documents/OK100K.png,SDUD chart (png),88339,,yes,,generated,2026-11-15,
+OK,OK/Oklahoma.docx,state summary (docx),193419,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+OR,OR/Documents/OR.png,SDUD chart (png),110782,,yes,,generated,2026-11-15,
+OR,OR/Documents/OR100K.png,SDUD chart (png),120309,,yes,,generated,2026-11-15,
+OR,OR/Oregon.docx,state summary (docx),248715,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+PA,PA/Documents/MAB2022120903.pdf,PDF,371191,"Issued December 9, 2022; effective January 9, 2023",yes,https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/docs/publications/documents/forms-and-pubs-omap/MAB2022120903.pdf,file,2026-11-16,DHS Medical Assistance Bulletin with handbook pages; URL recorded in the research assistant's 2025 summary document
+PA,PA/Documents/MAB2023111401.pdf,PDF,239947,"Issued November 14, 2023; effective January 8, 2024",yes,https://www.dhs.pa.gov/docs/Publications/Documents/FORMS%20AND%20PUBS%20OMAP/MAB2023111401.pdf,file,2026-11-16,DHS Medical Assistance Bulletin with handbook pages
+PA,PA/Documents/PA PDL 2023.pdf,PDF,579983,,yes,https://www.papdl.com/preferred-drug-list.html,listing_page,2025-08-20,
+PA,PA/Documents/PA PDL 2024.pdf,PDF,580097,,yes,https://www.papdl.com/preferred-drug-list.html,listing_page,2025-08-20,
+PA,PA/Documents/PA PDL 2025.pdf,PDF,794236,,yes,https://www.papdl.com/preferred-drug-list.html,listing_page,2025-08-20,
+PA,PA/Documents/PA.png,SDUD chart (png),151876,,yes,,generated,2026-11-15,
+PA,PA/Documents/PA100K.png,SDUD chart (png),154496,,yes,,generated,2026-11-15,
+PA,PA/Documents/PA_SPA_26-0003_2026-01-01.pdf,PDF,326362,,yes,https://www.medicaid.gov/medicaid/spa/downloads/PA-26-0003.pdf,file,2026-11-14,
+PA,PA/Documents/mab2024080702.pdf,PDF,917932,"Issued August 7, 2024; effective September 2, 2024",yes,https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/docs/publications/documents/forms-and-pubs-omap/mab2024080702.pdf,file,2026-11-16,DHS Medical Assistance Bulletin with handbook pages
+PA,PA/Pennsylvania.docx,state summary (docx),327225,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+RI,RI/Documents/PDL 10.01.2024_0.pdf,PDF,692015,,yes,https://eohhs.ri.gov/providers-partners/provider-directories/pharmacy/fee-service-preferred-drug-lists,listing_page,2025-09-30,
+RI,RI/Documents/RI PDL 2023.pdf,PDF,496739,,yes,https://eohhs.ri.gov/providers-partners/provider-directories/pharmacy/fee-service-preferred-drug-lists,listing_page,2025-09-30,
+RI,RI/Documents/RI PDL 2024.pdf,PDF,503671,,yes,https://eohhs.ri.gov/providers-partners/provider-directories/pharmacy/fee-service-preferred-drug-lists,listing_page,2025-08-28,
+RI,RI/Documents/RI PDL 2025.pdf,PDF,495038,,yes,https://eohhs.ri.gov/providers-partners/provider-directories/pharmacy/fee-service-preferred-drug-lists,listing_page,2025-08-28,
+RI,RI/Documents/RI_EOHHS_GLP1_State_Budget_Guidance_memo_2026-08-05.pdf,PDF,70135,"August 5, 2026; effective October 1, 2026",yes,https://eohhs.ri.gov/sites/g/files/xkgbur226/files/2026-08/2026%2008%2013%20GLP-1%20Change%202026%2010%2001.docx.pdf,file,2026-11-17,"Rhode Island EOHHS memorandum to RI Medicaid Providers, 'GLP-1 State Budget Guidance': from October 1, 2026 Rhode Island Medicaid no longer covers Foundayo, Saxenda, Wegovy and Zepbound when prescribed solely for weight loss. Downloaded from the state site by KS on 2026-11-17"
+RI,RI/Documents/RI.png,SDUD chart (png),146679,,yes,,generated,2026-11-15,
+RI,RI/Documents/RI100K.png,SDUD chart (png),150501,,yes,,generated,2026-11-15,
+RI,RI/Rhode Island.docx,state summary (docx),317371,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+SC,SC/Documents/Prescription BenefitsSC.pdf,PDF,,,no,https://www.selecthealthofsc.com/member/benefits/prescription-benefits,file,,"Cited, not deposited: managed care plan web page; URL found by web search on 2026-11-16; the page title and text match the saved file"
+SC,SC/Documents/SC.png,SDUD chart (png),117838,,yes,,generated,2026-11-15,
+SC,SC/Documents/SC100K.png,SDUD chart (png),128623,,yes,,generated,2026-11-15,
+SC,SC/Documents/SC_MB24-016_SinglePDL_2024-05-08.pdf,PDF,240408,5/8/2024,yes,https://www.scdhhs.gov/sites/dhhs/files/documents/(2024-5-8)%20Single%20PDL%20Announcement%20Bulletin.pdf,file,2026-11-15,Bulletin MB# 24-016 establishing the single PDL from 7/1/2024; URL found by web search on 2026-11-16; the page title and text match the saved file
+SC,SC/Documents/SC_SinglePDL_2026-11-01.pdf,PDF,862797,11/1/2026,yes,https://southcarolina.fhsc.com/providers/pdl.asp,listing_page,2026-11-15,SCDHHS Single PDL; no anti-obesity class; corroborating only
+SC,SC/South Carolina.docx,state summary (docx),265974,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+SD,SD/Documents/SD.png,SDUD chart (png),59636,,yes,,generated,2026-11-15,
+SD,SD/Documents/SD100K.png,SDUD chart (png),66424,,yes,,generated,2026-11-15,
+SD,SD/South Dakota.docx,state summary (docx),145510,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+TN,TN/Documents/TN PDL 2024.pdf,PDF,535594,"October 1, 2024",yes,https://contenthub-aem.optumrx.com/content/dam/contenthub/onboarding/assets/Tenncare/Tenncare-PDL.pdf,file,2025-08-20,
+TN,TN/Documents/TN PDL 2025.pdf,PDF,793938,"August 1, 2025",yes,https://contenthub-aem.optumrx.com/content/dam/contenthub/onboarding/assets/Tenncare/Tenncare-PDL.pdf,file,2025-08-20,
+TN,TN/Documents/TN.png,SDUD chart (png),135258,,yes,,generated,2026-11-15,
+TN,TN/Documents/TN100K.png,SDUD chart (png),132061,,yes,,generated,2026-11-15,
+TN,TN/Documents/TN_ProviderNotice_ObesityMgmt_2025-08-01.pdf,PDF,341427,,yes,https://contenthub-aem.optumrx.com/content/dam/contenthub/onboarding/assets/Tenncare/Provider-Notice-Obesity-Management-Agents-08-01-25.pdf,file,2026-11-14,
+TN,TN/Documents/TN_ProviderNotice_WeightMgmtUpdates_2025-12-01.pdf,PDF,231229,,yes,https://contenthub-aem.optumrx.com/content/dam/contenthub/onboarding/assets/Tenncare/Provider-Notice-Weight-Management-Updates-12-01-25.pdf,file,2026-11-14,
+TN,TN/Tennessee.docx,state summary (docx),284742,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+TX,TX/Documents/TX.png,SDUD chart (png),115095,,yes,,generated,2026-11-15,
+TX,TX/Documents/TX100K.png,SDUD chart (png),120861,,yes,,generated,2026-11-15,
+TX,TX/Texas.docx,state summary (docx),253839,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+UT,UT/Documents/UT PDL 2025.pdf,PDF,3111735,"August 1, 2025",yes,https://medicaid.utah.gov/pharmacy-program/preferred-drug-list/,listing_page,2025-08-20,
+UT,UT/Documents/UT.png,SDUD chart (png),87993,,yes,,generated,2026-11-15,
+UT,UT/Documents/UT100K.png,SDUD chart (png),95531,,yes,,generated,2026-11-15,
+UT,UT/Utah.docx,state summary (docx),206845,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+VA,VA/Documents/VA PDL 2023.pdf,PDF,1091966,,yes,https://www.virginiamedicaidpharmacyservices.com/member/documents,listing_page,2025-08-20,
+VA,VA/Documents/VA PDL 2024.pdf,PDF,1149204,,yes,https://www.virginiamedicaidpharmacyservices.com/member/documents,listing_page,2025-08-20,
+VA,VA/Documents/VA.png,SDUD chart (png),158359,,yes,,generated,2026-11-15,
+VA,VA/Documents/VA100K.png,SDUD chart (png),154392,,yes,,generated,2026-11-15,
+VA,VA/Virginia.docx,state summary (docx),333786,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+VT,VT/Documents/VT.png,SDUD chart (png),87779,,yes,,generated,2026-11-15,
+VT,VT/Documents/VT100K.png,SDUD chart (png),90149,,yes,,generated,2026-11-15,
+VT,VT/Vermont.docx,state summary (docx),198481,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+WA,WA/Documents/WA.png,SDUD chart (png),117229,,yes,,generated,2026-11-15,
+WA,WA/Documents/WA100K.png,SDUD chart (png),124284,,yes,,generated,2026-11-15,
+WA,WA/Documents/WA_PDL_06_2025.xlsx,spreadsheet (xlsx),9252686,,yes,https://www.hca.wa.gov/billers-providers-partners/program-information-providers/apple-health-preferred-drug-list-pdl,listing_page,2025-10-01,
+WA,WA/Documents/WA_Wegovy_05_2025.pdf,PDF,274459,5/1/2025,yes,https://www.hca.wa.gov/billers-providers-partners/program-information-providers/apple-health-preferred-drug-list-pdl,listing_page,2025-10-01,
+WA,WA/Washington.docx,state summary (docx),258248,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+WI,WI/Documents/WI PDL 2023.pdf,PDF,377831,01/01/2023,yes,https://www.forwardhealth.wi.gov/wiportal/content/provider/medicaid/pharmacy/pdl/archived_pdllists.htm.spage,listing_page,2025-08-25,URL recorded in the research assistant's 2025 notes
+WI,WI/Documents/WI PDL 2024.pdf,PDF,802123,07/01/2024,yes,https://www.forwardhealth.wi.gov/wiportal/content/provider/medicaid/pharmacy/pdl/archived_pdllists.htm.spage,listing_page,2025-08-25,URL recorded in the research assistant's 2025 notes
+WI,WI/Documents/WI PDL 2025.pdf,PDF,785815,01/01/2025,yes,https://www.forwardhealth.wi.gov/wiportal/content/provider/medicaid/pharmacy/pdl/archived_pdllists.htm.spage,listing_page,2025-08-25,URL recorded in the research assistant's 2025 notes
+WI,WI/Documents/WI.png,SDUD chart (png),141862,,yes,,generated,2026-11-15,
+WI,WI/Documents/WI100K.png,SDUD chart (png),138075,,yes,,generated,2026-11-15,
+WI,WI/Documents/WI_2024_policy_change.pdf,PDF,1188370,"July 1, 2024",yes,https://www.forwardhealth.wi.gov/kw/pdf/2024-16.pdf,inferred,2025-10-01,"URL address formed from the document's own number or file name, following the pattern of a recorded address; not opened (ForwardHealth Update 2024-16)"
+WI,WI/Documents/WI_F-00163A_2024-07.pdf,PDF,147203,F-00163A (07/2024),yes,https://www.forwardhealth.wi.gov/WIPortal/Subsystem/Publications/ForwardHealthCommunications.aspx?panel=Forms,listing_page,2026-11-16,Form instructions
+WI,WI/Documents/WI_F-00163_2021-07.pdf,PDF,873221,F-00163 (07/2021),yes,https://www.forwardhealth.wi.gov/WIPortal/Subsystem/Publications/ForwardHealthCommunications.aspx?panel=Forms,listing_page,2026-11-16,Prior Authorization Drug Attachment for Anti-Obesity Drugs
+WI,WI/Documents/WI_F-00163_2022-09.pdf,PDF,846313,F-00163 (09/2022),yes,https://www.forwardhealth.wi.gov/WIPortal/Subsystem/Publications/ForwardHealthCommunications.aspx?panel=Forms,listing_page,2026-11-16,Prior Authorization Drug Attachment for Anti-Obesity Drugs
+WI,WI/Documents/WI_ForwardHealth_Update_2023-09.pdf,PDF,835312,"March 2023; effective April 1, 2023",yes,https://www.forwardhealth.wi.gov/kw/pdf/2023-09.pdf,inferred,2026-11-16,"ForwardHealth Update 2023-09; URL address formed from the document's own number or file name, following the pattern of a recorded address; not opened"
+WI,WI/Documents/WI_ForwardHealth_Update_2026-15.pdf,PDF,1146681,,yes,https://www.forwardhealth.wi.gov/kw/pdf/2026-15.pdf,file,2026-11-14,
+WI,WI/Documents/WI_saxendawegovy_2023_PA.pdf,PDF,846139,,yes,https://www.forwardhealth.wi.gov/WIPortal/Subsystem/Publications/ForwardHealthCommunications.aspx?panel=Forms,listing_page,2025-10-01,
+WI,WI/Wisconsin.docx,state summary (docx),299641,,yes,,generated,2026-11-17,Built from the data files by code/build_state_documents.py
+WV,WV/Documents/WV PDL 2025.pdf,PDF,927261,7/1/2025,yes,https://bms.wv.gov/preferred-drug-list-and-coverage-details,listing_page,2025-08-20,
+WV,WV/Documents/WV.png,SDUD chart (png),108059,,yes,,generated,2026-11-15,
+WV,WV/Documents/WV100K.png,SDUD chart (png),111736,,yes,,generated,2026-11-15,
+WV,WV/West Virginia.docx,state summary (docx),237379,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+WY,WY/Documents/WY.png,SDUD chart (png),90032,,yes,,generated,2026-11-15,
+WY,WY/Documents/WY100K.png,SDUD chart (png),95275,,yes,,generated,2026-11-15,
+WY,WY/Wyoming.docx,state summary (docx),207845,,yes,,generated,2026-11-16,Built from the data files by code/build_state_documents.py
+,DEFINITIONS.docx,glossary (docx),39130,,yes,,generated,2026-11-17,
+,README.txt,text,20879,,yes,,generated,2026-11-17,"At the top level of the deposit, not under files/"
+,document_manifest.csv,data (csv),,,yes,,generated,2026-11-16,"At the top level of the deposit, not under files/"
+,state_coverage_events.csv,data (csv),20635,,yes,,generated,2026-11-17,"At the top level of the deposit, not under files/"
+,state_coverage_evidence_sources.csv,data (csv),114274,,yes,,generated,2026-11-17,"At the top level of the deposit, not under files/"
+,state_quarter_product_counts.csv,data (csv),79280,,yes,,generated,2026-11-15,
+AK,legacy/AK_2025_notes.docx,2025 notes (docx),14276,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+AL,legacy/AL_2025_notes.docx,2025 notes (docx),14442,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+AR,legacy/AR_2025_notes.docx,2025 notes (docx),13444,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+AZ,legacy/AZ_2025_notes.docx,2025 notes (docx),12063,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+CO,legacy/CO_2025_notes.docx,2025 notes (docx),13525,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+CT,legacy/CT_2025_notes.docx,2025 notes (docx),37108,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+FL,legacy/FL_2025_notes.docx,2025 notes (docx),11976,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+GA,legacy/GA_2025_notes.docx,2025 notes (docx),12739,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+HI,legacy/HI_2025_notes.docx,2025 notes (docx),13622,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+IA,legacy/IA_2025_notes.docx,2025 notes (docx),11276,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+ID,legacy/ID_2025_notes.docx,2025 notes (docx),10903,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+IL,legacy/IL_2025_notes.docx,2025 notes (docx),11263,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+IN,legacy/IN_2025_notes.docx,2025 notes (docx),582169,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+KY,legacy/KY_2025_notes.docx,2025 notes (docx),11306,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+LA,legacy/LA_2025_notes.docx,2025 notes (docx),12938,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+MD,legacy/MD_2025_notes.docx,2025 notes (docx),11613,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+ME,legacy/ME_2025_notes.docx,2025 notes (docx),11267,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+MT,legacy/MT_2025_notes.docx,2025 notes (docx),12059,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+NE,legacy/NE_2025_notes.docx,2025 notes (docx),11124,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+NJ,legacy/NJ_2025_notes.docx,2025 notes (docx),12085,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+NM,legacy/NM_2025_notes.docx,2025 notes (docx),12261,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+NV,legacy/NV_2025_notes.docx,2025 notes (docx),11207,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+NY,legacy/NY_2025_notes.docx,2025 notes (docx),11310,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+OH,legacy/OH_2025_notes.docx,2025 notes (docx),10918,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+OK,legacy/OK_2025_notes.docx,2025 notes (docx),10893,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+OR,legacy/OR_2025_notes.docx,2025 notes (docx),11203,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+SD,legacy/SD_2025_notes.docx,2025 notes (docx),11112,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+VT,legacy/VT_2025_notes.docx,2025 notes (docx),11299,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+WA,legacy/WA_2025_notes.docx,2025 notes (docx),12656,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+WV,legacy/WV_2025_notes.docx,2025 notes (docx),12426,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+WY,legacy/WY_2025_notes.docx,2025 notes (docx),11324,,yes,,generated,,Note written in 2025 by the former research assistant; replaced by the state summary document and kept as provenance
+,legacy/Medicaid_GLP1_States_2025.xlsx,spreadsheet (xlsx),11665,,yes,,not_recorded,2025-10-14,Working spreadsheet from 2025; kept as provenance; not a current data file
+,legacy/States_never_covering_2026-11-15_superseded.docx,superseded summary (docx),3350853,,yes,,generated,2026-11-15,"Combined document for the never-covering states, replaced on 2026-11-16 by one summary document per state. Its statement that SDUD dispensing is near zero does not describe 2025 and 2026"
+,legacy/readme_statedocument_2025.docx,2025 notes (docx),12709,,yes,,generated,2025-11-24,Readme for the 2025 document folder; kept as provenance
+,data_and_documentation/state_drug_coverage.csv,data (csv),33100,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/state_quarter_drug_panel.csv,data (csv),76506,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/state_criteria_history.csv,data (csv),21221,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/criteria_status_by_quarter.csv,data (csv),416681,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/what_is_tracked.md,documentation (md),10949,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/data_dictionary.md,documentation (md),10717,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/coverage_dimensions_codebook.md,documentation (md),15564,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
+,data_and_documentation/notes_on_the_rules.md,documentation (md),7778,,yes,,generated,2026-11-17,Copy of the file in the public repository as of the freeze date
